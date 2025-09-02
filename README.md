@@ -1,5 +1,5 @@
 
-##  Some basic commands and setup procedures are shadowed  here   like terraform init and appy and all assuming that you already know basic to  more than intermediate knowledge about prerequisites. 
+##  Some basic commands and setup procedures are shadowed  here   like terraform init and apply and all assuming that you already know basic to  more than intermediate knowledge about prerequisites. 
 
  ## Stacks :
 
